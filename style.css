@@ -992,7 +992,7 @@
             }
 
             .img-placeholder {
-                height: 43vh;
+                height: 40vh;
                 font-size: 3rem;
             }
         }
@@ -1434,4 +1434,5 @@
             .cert-upload-area {
                 padding: 20px;
             }
+
         }
